@@ -1,0 +1,26 @@
+{
+  "name": "vuecourse",
+  "version": "1.0.0",
+  "description": "npm config",
+  "main": "starterVueFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cantis/VueCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cantis/VueCourse/issues"
+  },
+  "homepage": "https://github.com/cantis/VueCourse#readme",
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-plugin-vue": "^7.14.0"
+  },
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
